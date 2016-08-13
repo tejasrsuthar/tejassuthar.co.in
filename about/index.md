@@ -2,14 +2,12 @@
 layout: page
 title: About
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: about.png
 comments: false
 modified: 2016-08-13
 ---
 
-Hello, I'm Tejas Suthar from Ahmedabad / Gujrat / India. 
+Hello, I'm Tejas Suthar from India - Ahmedabad. 
 
 This is my personal bog where I write my views related to web and mobile application development. I like to write what I've experienced during my web development carrier. 
 
@@ -84,7 +82,7 @@ Apart form this Andoroid Applications, currently I'm workining in well known MNC
 
 
 
-### What to start a project with me or any suggestions?
+### Want to start a project with me or have any suggestions?
 
 <a href="#" class="btn btn-success">Hire Me</a>
 

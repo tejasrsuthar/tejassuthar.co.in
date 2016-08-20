@@ -2,13 +2,13 @@
 layout: post
 title: Earn extra income by making Android/IOS Apps while doing your regular Job
 description: "Earn income by making Android/IOS Apps"
-modified: 2016-08-13
-tags: [tools]
+modified: 2016-08-20
+tags: [Hybrid Mobile App Development, Extra Income, Ionic Framework, React Native Framework]
+image:
+ feature: earn-money-by-making-apps-while-doing-your-regular-job.jpg
 ---
 
-In today competitive world, earning income through the internet is becoming very hard. 
-
-Still, if you're only working as a software engineer or Team leader or with any other position and believe that your job is not paying you off what you want, you're missing pretty important aspect of earning extra income through the internet. 
+In today's competitive world, earning income through the internet is becoming very hard. Still, if you're working as a software engineer or Team leader or with any other position and believe that your job is not paying you off what you want, you're missing pretty important aspect of earning extra income through the internet. 
 
 You can earn money by making Android/IOS apps - Whatever you feel comfortable with. The question comes in your mind is that, How can I become Android or IOS developer even if I don't know actual native Android Application Development or IOS Application Development. 
 
